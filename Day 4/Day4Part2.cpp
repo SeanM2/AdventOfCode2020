@@ -89,7 +89,7 @@ bool Passport::DetermineIfValidEyeColour(string eyeColour)
 
 bool Passport::DetermineIfValidHairColour(string hairColour)
 {
-    if (hairColour[0] == '#' && hairColour.find_first_not_of("0123456789abcdefABCDEF",1) != -1)
+    if (hairColour[0] == '#' && hairColour.find_first_not_of("0123456789abcdefABCDEF",1) == string::npos)
     {
         return true;
     }
@@ -101,16 +101,8 @@ bool Passport::DetermineIfValidHairColour(string hairColour)
 
 bool Passport::DetermineIfValidPassportNumber(string passportNumber)
 {
-    if (passportNumber.find_first_not_of("0123456789") != -1)
-    {
-        return false;
-    }
-    else if(CountNumberOfDigits(stoi(passportNumber)) == 9)
-    {
-        return true;
-    }
 
-    return false;
+    return passportNumber.find_first_not_of("0123456789") == string::npos && passportNumber.length() == 9;
 }
 
 Passport::Passport(int _byr, int _iyr, int _eyr, int _hgt, int _cid, UnitType _unitType, string _pid, string _ecl, string _hcl)
