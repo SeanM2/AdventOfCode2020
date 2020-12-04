@@ -4,7 +4,11 @@ using namespace std;
 
 int main()
 {
-    cout << "Hello World" << "\n";
+
+    string str = "fffffffffff";
+
+    int value = str.find_first_not_of("0123456789abcdefABCDEF");
+    cout << value << "\n";
 
     return 0;
 }
