@@ -1,0 +1,31 @@
+light green bags contain 2 pale cyan bags.
+dim tan bags contain 3 shiny teal bags, 5 bright white bags, 4 striped bronze bags.
+dotted magenta bags contain 2 faded cyan bags, 4 bright yellow bags.
+dull silver bags contain 3 striped green bags.
+posh purple bags contain 2 mirrored lavender bags, 4 light chartreuse bags, 3 shiny green bags.
+vibrant black bags contain 2 faded lavender bags, 4 shiny plum bags.
+posh fuchsia bags contain 1 striped coral bag, 2 wavy gray bags, 3 posh white bags, 1 mirrored coral bag.
+wavy magenta bags contain 2 light salmon bags.
+shiny purple bags contain 3 vibrant white bags.
+wavy chartreuse bags contain 3 striped purple bags, 3 vibrant blue bags, 2 mirrored fuchsia bags, 2 muted indigo bags.
+vibrant cyan bags contain 4 posh teal bags, 1 dull aqua bag.
+light plum bags contain 1 dotted blue bag, 2 clear yellow bags, 2 dark indigo bags.
+mirrored chartreuse bags contain 4 dull plum bags, 4 light bronze bags, 2 dim red bags, 2 wavy silver bags.
+faded purple bags contain 1 shiny maroon bag.
+dark maroon bags contain 2 drab brown bags, 2 wavy tomato bags.
+clear teal bags contain 1 bright beige bag, 3 dark green bags, 4 light indigo bags.
+light gold bags contain 3 mirrored brown bags, 1 muted chartreuse bag, 2 wavy yellow bags.
+dull aqua bags contain no other bags.
+posh crimson bags contain 3 clear crimson bags, 3 mirrored tan bags, 5 muted coral bags, 4 striped yellow bags.
+dotted lime bags contain 2 clear violet bags, 4 dark beige bags, 2 mirrored gray bags, 3 clear chartreuse bags, 1 light fuchsia bag.
+bright indigo bags contain 5 muted brown bags.
+vibrant crimson bags contain 3 faded olive bags, 2 faded fuchsia bags, 2 dotted chartreuse bags.
+pale white bags contain 2 plaid aqua bags.
+wavy coral bags contain 2 plaid red bags, 4 bright turquoise bags, 1 shiny silver bag, 2 clear blue bags.
+light chartreuse bags contain 4 dotted violet bags, 1 mirrored lavender bag, 2 muted red bags, 1 plaid silver bag.
+shiny plum bags contain 3 muted tomato bags, 5 dark bronze bags.
+bright violet bags contain 2 striped brown bags, 5 vibrant chartreuse bags, 4 drab turquoise bags, 5 light plum bags, 1 light fuchsia bag.
+plaid green bags contain 5 plaid white bags, 2 dull olive bags, 3 light tan bags, 4 vibrant tan bags.
+light fuchsia bags contain 1 shiny gold bag, 5 faded beige bags, 2 dark chartreuse bags, 3 light brown bags.
+posh beige bags contain 4 mirrored coral bags, 2 muted tomato bags, 1 dull lavender bag.
+clear plum bags contain 2 plaid tomato bags.
