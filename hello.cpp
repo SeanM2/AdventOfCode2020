@@ -2,19 +2,19 @@
 
 using namespace std;
 
+void DoTheThing(int i, int j)
+{
+    i = i + j;
+}
+
 int main()
 {
-    string hairColour = "#7d3b0c";
+    int i = 5;
+    int j = 10;
 
+    DoTheThing(i, j);
 
-    if (hairColour[0] == '#' && hairColour.find_first_not_of("0123456789abcdefABCDEF",1) == string::npos)
-    {
-        cout << "true" << "\n";
-    }
-    else
-    {
-        cout << "false" << "\n";
-    }
+    cout << i << ", " << j << "\n";
 
     return 0;
 }
